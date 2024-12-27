@@ -1,0 +1,14 @@
+svm classification - 
+
+In svm classification along side hyperplane (best fit line) there are n (2 in case of binary classification) number of marginal planes.
+Our aim in svm is to maximize the distance between the two marginal planes.
+
+If we find all the lines which are linearly separable then it is called hard marginal plane (no errors) (ideal case)
+with errors it is called soft marginl plane.
+
+
+equations of straight line
+
+ax+by+c=0 which is same as y=mx+c
+
+
